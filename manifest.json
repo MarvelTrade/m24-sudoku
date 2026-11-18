@@ -1,0 +1,18 @@
+{
+  "name": "Москва 24 | Судоку",
+  "short_name": "М24 Судоку",
+  "description": "Классическое судоку в эфирном стиле телеканала Москва 24",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111318",
+  "theme_color": "#E30613",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

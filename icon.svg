@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#E30613"/>
+  <g stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="6" fill="none">
+    <line x1="170" y1="64" x2="170" y2="448"/>
+    <line x1="342" y1="64" x2="342" y2="448"/>
+    <line x1="64" y1="170" x2="448" y2="170"/>
+    <line x1="64" y1="342" x2="448" y2="342"/>
+  </g>
+  <rect x="64" y="64" width="384" height="384" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="8"/>
+  <text x="256" y="290" text-anchor="middle" font-family="Arial Black, Montserrat, system-ui, sans-serif" font-weight="900" font-size="168" fill="#FFFFFF" letter-spacing="-6">М24</text>
+  <text x="256" y="385" text-anchor="middle" font-family="Arial, Montserrat, system-ui, sans-serif" font-weight="800" font-size="44" fill="#FFFFFF" letter-spacing="8" opacity="0.92">СУДОКУ</text>
+</svg>
